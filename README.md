@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fanioz
-- 👀 I’m interested in Coding for AI, Games
-- 🌱 I’m currently learning Python ML
-- 💞️ I’m looking to collaborate on ML projcts
+- 👀 I’m interested in Coding for Games and Mobile App
+- 🌱 I’m currently learning Mobile development using FLutter
+- 💞️ I’m looking to collaborate on Flutter/Rust projects
 - 📫 How to reach me : just drop me message
 
 <!---
