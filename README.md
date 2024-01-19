@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fanioz
-- 👀 I’m interested in Coding for Games and Mobile App
-- 🌱 I’m currently learning Mobile development using FLutter
-- 💞️ I’m looking to collaborate on Flutter/Rust projects
+- 👀 I’m interested in Coding for Games, Web and Mobile App
+- 🌱 I’m currently learning PHP/Laravel
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me : just drop me message
 
 <!---
